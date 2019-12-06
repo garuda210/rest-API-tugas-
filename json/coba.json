@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Yogas",
+        "umur" : 17,
+        "nrp" : "173040044",
+        "hobby" : [
+            "Main layangan",
+            "Jalanan-Jalan"
+        ],
+        
+        "pembimbing": {
+            "pembimbing1": "Mang Udin",
+            "Pembimbing2": "Teh Uceu"
+        }
+    },
+    {
+        "nama" : "bahrudin",
+        "umur" : 25,
+        "nrp" : "103040022",
+        "hobby" : [
+            "Adu Ayam",
+            "Judi Ayam"
+        ],
+        
+        "pembimbing": {
+            "pembimbing1": "Mang dudung",
+            "Pembimbing2": "Ceu Edoh" 
+        }
+    }
+]
+    
+
